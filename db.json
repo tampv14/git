@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "name": "Tam pahm1412",
+      "age": "23322",
+      "emaiL": "tamtvph50549@gmail.com",
+      "phone": "124332534",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.Bx1Mje-PQDGkkH6ArtzqUwHaEK&pid=Api&P=0&h=180",
+      "id": 2
+    }
+  ],
+  "products": [],
+  "variants": [],
+  "carts": [],
+  "orders": [],
+  "users": [
+    {
+      "email": "tamtvph50549@gmail.com",
+      "password": "$2a$10$IMmlnXm4NcrUJWl.O1za/uXsShxlNZjaJtc9M2NCG2GIUQ893qA1m",
+      "id": 1
+    },
+    {
+      "email": "tamtvph505491@gmail.com",
+      "password": "$2a$10$THJnXOlbzHNg04IXF3SAEuAXZPTda6KJkcl7t/BA0xIThIJZWC39O",
+      "id": 2
+    }
+  ]
+}
